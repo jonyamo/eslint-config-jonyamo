@@ -37,11 +37,14 @@ or `package.json`:
 Includes the following "recommended" configurations:
 
 * [`eslint:recommended`](https://eslint.org/docs/user-guide/configuring#using-eslint-recommended) - A subset of core rules that report common problems.
-* [`promise:recommended`](https://github.com/xjamundx/eslint-plugin-promise) - Best practices for JavaScript promises.
-* [`unicorn:recommended`](https://github.com/sindresorhus/eslint-plugin-unicorn) - Various rules that enforce good practices.
-* [`prettier:recommended`](https://prettier.io/docs/en/integrating-with-linters.html) - Allows Prettier to focus on formatting, while ESLint focuses on quality.
+* [`promise:recommended`](https://www.npmjs.com/package/eslint-plugin-promise) - Best practices for JavaScript promises.
+* [`unicorn:recommended`](https://www.npmjs.com/package/eslint-plugin-unicorn) - Various rules that enforce good practices.
+* [`prettier:recommended`](https://www.npmjs.com/package/eslint-config-prettier) - Allows Prettier to focus on formatting, while ESLint focuses on quality.
 
 ## React
+
+* [`react:recommended`](https://www.npmjs.com/package/eslint-plugin-react) - Rules specific to React.
+* [`react-hooks:recommended`](https://www.npmjs.com/package/eslint-plugin-react-hooks) - Rules specific to React hooks.
 
 To include the react rules:
 
