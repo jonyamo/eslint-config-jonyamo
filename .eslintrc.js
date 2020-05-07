@@ -4,6 +4,7 @@ module.exports = {
         'plugin:promise/recommended',
         'plugin:unicorn/recommended',
         'plugin:prettier/recommended',
+        'prettier/unicorn',
     ],
     env: {
         node: true,
